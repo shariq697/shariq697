@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Hi, I'm Shariq Haider  
 
-<!--
-**shariq697/shariq697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Technology student at Ontario Tech University focused on building scalable software systems, cloud-based solutions, and data-driven applications. I enjoy solving real-world problems through software and continuously improving my skills in software development, cloud computing, cybersecurity, and data systems.
 
-Here are some ideas to get you started:
+🎓 About Me  
+- 📚 Bachelor of Information Technology — Ontario Tech University  
+- 📊 GPA: 3.66 | Dean’s List Honoree  
+- 🧠 Focused on building real-world, production-style technical projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Technical Skills  
+
+💡 Programming Languages  
+Python • Java • JavaScript • SQL • HTML/CSS • Bash  
+
+☁️ Cloud & DevOps  
+AWS • Microsoft Azure • Docker • Linux • Terraform • Git & GitHub  
+
+📊 Data & Analytics  
+Pandas • NumPy • Tableau • Power BI • Excel VBA  
+
+🌐 Networking & Systems  
+Cisco Networking • VLANs • OSPF • BGP • Wireshark • Virtualization  
+
+🚀 Featured Projects  
+
+🔐 Phishing Website Detection System  
+Built a machine learning system using 11,000+ phishing samples and 30+ security features.  
+Achieved 96.9% accuracy using Random Forest after comparing multiple models.
+
+🌐 CryptoMine Enterprise Network Architecture  
+Designed a scalable enterprise network using Cisco Packet Tracer.  
+Implemented BGP, OSPF, VLAN segmentation, and inter-VLAN routing for secure communication.
+
+🗄️ FixFlow – Service Request Management System  
+Developed a relational database system to manage service requests.  
+Designed normalized schemas and implemented SQL-based CRUD operations and queries.
+
+📜 Certifications  
+- CCNA: Introduction to Networks  
+- AWS Cloud Practitioner Essentials  
+- IBM Artificial Intelligence Fundamentals  
+- Data Science Essentials with Python  
