@@ -13,7 +13,7 @@ I am an Information Technology student at Ontario Tech University focused on bui
 Python • Java • JavaScript • SQL • HTML/CSS • Bash  
 
 ☁️ Cloud & DevOps  
-AWS • Microsoft Azure • Docker • Linux • Terraform • Git & GitHub  
+AWS • Microsoft Azure • Docker • Linux • Terraform • GitHub  
 
 📊 Data & Analytics  
 Pandas • NumPy • Tableau • Power BI • Excel VBA  
