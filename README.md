@@ -23,6 +23,10 @@ Cisco Networking • VLANs • OSPF • BGP • Wireshark • Virtualization
 
 🚀 Featured Projects  
 
+🚀 AI Resume Analyzer
+A full-stack AI-powered Resume Analyzer built with JavaScript (React), Node.js, and Ollama (Llama 3), styled using CSS.  
+The system evaluates resumes and generates an ATS score with structured feedback, including strengths, improvement suggestions, and a recruiter-style summary.
+
 🔐 Phishing Website Detection System  
 Built a machine learning system using 11,000+ phishing samples and 30+ security features.  
 Achieved 96.9% accuracy using Random Forest after comparing multiple models.
