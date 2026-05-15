@@ -24,7 +24,6 @@ Cisco Networking • VLANs • OSPF • BGP • Wireshark • Virtualization
 🚀 Featured Projects  
 
 🚀 AI Resume Analyzer
-
 A full-stack AI-powered Resume Analyzer built with JavaScript (React), Node.js, and Ollama (Llama 3), styled using CSS.  
 The system evaluates resumes and generates an ATS score with structured feedback, including strengths, improvement suggestions, and a recruiter-style summary.
 
