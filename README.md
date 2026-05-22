@@ -24,6 +24,7 @@ Cisco Networking • VLANs • OSPF • BGP • Wireshark • Virtualization
 🚀 Featured Projects  
 
 🚀 AI Resume Analyzer
+
 A full-stack AI-powered Resume Analyzer built with React, Vite, Node.js, and Groq AI, styled using CSS.
 The system analyzes resumes and generates ATS-style feedback, including an ATS score, strengths, weaknesses, improvement suggestions, and a professional recruiter-style summary.
 
