@@ -1,6 +1,6 @@
 👋 Hi, I'm Shariq Haider  
 
-I am an Information Technology student at Ontario Tech University with a strong interest in building scalable software systems, cloud-based solutions, and data-driven applications. I enjoy solving real-world problems through software development and continuously improving my skills in software engineering, cloud computing, cybersecurity, and data systems.
+I am an Information Technology student at Ontario Tech University focused on Networking, Cybersecurity, and Software Development. I build practical projects in full-stack development, network systems, and machine learning, with an emphasis on solving real-world technical problems.
 
 🎓 About Me  
 - 📚 Bachelor of Information Technology — Ontario Tech University  
